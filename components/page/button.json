@@ -1,0 +1,20 @@
+{
+  "collectionName": "components_page_buttons",
+  "info": {
+    "name": "button",
+    "icon": "link"
+  },
+  "options": {},
+  "attributes": {
+    "label": {
+      "type": "string",
+      "required": true,
+      "maxLength": 20,
+      "default": "Comprar"
+    },
+    "url": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
